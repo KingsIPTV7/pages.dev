@@ -3,7 +3,7 @@ export default function handler(req, res) {
 
   if (!id) {
     // Redirect to Telegram link if no ID provided
-    res.writeHead(302, { Location: 'https://t.me/HTLivesm3u' });
+    res.writeHead(302, { Location: 'https://t.me/kingsiptv7' });
     res.end();
     return;
   }
